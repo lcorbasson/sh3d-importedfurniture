@@ -10,6 +10,7 @@ This repository is a collection of furniture libraries converted to SH3D/SH3F fo
         * [3D Warehouse authors who may be contacted to see if they'd release their models under a free license](https://www.google.fr/webhp?q=site:https:%2F%2F3dwarehouse.sketchup.com%2Fuser.html+contact)
         * Additional 3D Warehouse authors may be identified using profile pictures matching with Google Images.
     * Resources.blogscopia [*CC BY 2.5 ES or CC BY 4.0*](http://resources.blogscopia.com/license-2/)
+        * Included in this repository.
     * ArchiBit Generation [*CC BY-NC-SA 2.5 IT*](http://www.2d3dmodels.com/3dmodels.htm)
     * Free the models [**License prohibiting redistribution**](http://telias.free.fr/About.html)
     * Archive3D [**No licensing information**]
