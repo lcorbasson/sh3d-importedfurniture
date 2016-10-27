@@ -16,6 +16,7 @@ This repository is a collection of furniture libraries converted to SH3D/SH3F fo
     * Model3D.biz [**License prohibiting redistribution**](http://www.model3d.biz/help/)
     * [KOLO](http://www.kolo-international.com/pro/downloads/) [**No licensing information**]
     * [ODG8](http://www.odg8.com/en/3d-area/) [*CC BY-ND 3.0*](http://www.odg8.com/en/privacy)
+        * Included in this repository.
     * Creative-3D.net [**No licensing information**]
     * Klicker [**No licensing information**]
     * Baumgarten Enterprises [**License prohibiting redistribution**](http://www.baument.com/restore/info.html)
